@@ -14,14 +14,14 @@ D'Arcy -
 Courville.
 
 The repository contains the following documents:
-*. A LibreOffice presentation in ODP format.
-*. A PDF version of the LibreOffice presentation with the notes.
-*. A jupyter notebook titled "Tensorflow_Regression."
-*. An HTML version of the "Tensorflow_Regression" notebook.
-*. A jupyter notebook titled "Sentiment_RNN."
-*. An HTML version of the "Sentiment_RNN." notebook
-*. Some dataset and images used in the above notebook.
-*. The Anaconda minconda installation file "Miniconda3-latest-Linux-x86_64.sh"
+* A LibreOffice presentation in ODP format.
+* A PDF version of the LibreOffice presentation with the notes.
+* A jupyter notebook titled "Tensorflow_Regression."
+* An HTML version of the "Tensorflow_Regression" notebook.
+* A jupyter notebook titled "Sentiment_RNN."
+* An HTML version of the "Sentiment_RNN." notebook
+* Some dataset and images used in the above notebook.
+* The Anaconda minconda installation file "Miniconda3-latest-Linux-x86_64.sh"
 
 
 **NOTE: Make sure you create the directory "checkpoints" before running the RNN jupyter notebook. The directory stores the model checkpoint so you can use it again without having to re-train it.**
