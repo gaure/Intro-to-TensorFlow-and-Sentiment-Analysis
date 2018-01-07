@@ -1,4 +1,4 @@
-Intro to TensorFlow and Sentiment Analysis
+# Intro to TensorFlow and Sentiment Analysis #
 
 This repository contains the material I used during an introductory session about TensorFLow and Sentiment analysis. The session was delivered on January 4th, 2018 as the topic of the "MML Event #6: Intro to TensorFlow and Sentiment Analysis." Miami MeetUps event.
 The material and code  I used came from the following resources:
